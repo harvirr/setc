@@ -5,7 +5,7 @@ SETC Binder v1.0 — Symbiosis Education, Training & Certification
 Certification is a Governance Act. Competence is Mandatory.
 
 Version: 1.0 (Fixed Canon) · Date: 20 November 2025 · Canonical Authority: Symbiosis Framework v1.0a
-
+Download the full specification: SETC v1.0 https://github.com/harvirr/setc/blob/main/SETC-v1%20binder%20.pdf
 This repository defines the mandatory education, competency, and certification system for all human roles operating, building, governing, or auditing Symbiosis-compliant hybrid human–AI systems.
 
 I. Program Overview & Philosophy
